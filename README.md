@@ -13,11 +13,11 @@ En recherche de stage sysadmin / réseaux / DevOps.
 
 ## 🛠️ Compétences
 
-- **Systèmes** : Linux (administration)
+- **Systèmes** : Linux (administration), PowerShell
 - **Réseaux** : VLAN, DHCP, DNS, VPN, OSPF, FRRouting, firewall, Active Directory
 - **Virtualisation** : VMware, VirtualBox
 - **Scripting** : Bash, Python
-- **DevOps (en cours d'apprentissage)** : Git, Docker, Ansible, Jenkins, CI/CD
+- **DevOps (en cours d'apprentissage)** : Git, Docker, Ansible, Jenkins, CI/CD, Terraform
 
 <br>
 
